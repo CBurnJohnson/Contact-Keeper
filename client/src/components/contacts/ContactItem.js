@@ -1,5 +1,4 @@
 import React from 'react';
-import { link } from 'fs';
 import PropTypes from 'prop-types';
 
 const ContactItem = ({ contact }) => {
