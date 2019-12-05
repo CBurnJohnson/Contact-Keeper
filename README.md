@@ -1,8 +1,8 @@
-# Contact-Keeper
+# Phone Book
 
 #### MERN Full Stack application that stores user contacts.
 
-##### Deployed: https://morning-meadow-52795.herokuapp.com/
+##### Deployed Version: https://morning-meadow-52795.herokuapp.com/
 
 ![homepage](https://user-images.githubusercontent.com/44681780/68999164-678f6980-0871-11ea-9af1-ebd776d9bbbc.png)
 
