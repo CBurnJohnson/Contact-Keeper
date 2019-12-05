@@ -4,8 +4,8 @@
 
 ##### Deployed Version: https://morning-meadow-52795.herokuapp.com/
 
-![homepage](https://user-images.githubusercontent.com/44681780/68999164-678f6980-0871-11ea-9af1-ebd776d9bbbc.png)
+![homepage](https://user-images.githubusercontent.com/44681780/70203622-59937280-16d2-11ea-94fd-7eefb00cab66.jpg)
 
-![login](https://user-images.githubusercontent.com/44681780/68999154-50507c00-0871-11ea-8fe8-a7af78d9c112.png)
+![login](https://user-images.githubusercontent.com/44681780/70203623-59937280-16d2-11ea-9f33-429d2449e84b.jpg)
 
-![register](https://user-images.githubusercontent.com/44681780/68999157-5e060180-0871-11ea-9fc2-6112a3abd6de.png)
+![register](https://user-images.githubusercontent.com/44681780/70203624-59937280-16d2-11ea-96d6-d88ffd9c95ee.jpg)
