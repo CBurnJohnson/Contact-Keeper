@@ -1,4 +1,4 @@
-# Contact-Keeper
+# Phone Book
 
 #### MERN Full Stack application that stores user contacts.
 
