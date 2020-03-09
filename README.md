@@ -2,7 +2,7 @@
 
 #### MERN Full Stack application that stores user contacts.
 
-##### Deployed Version: https://morning-meadow-52795.herokuapp.com/
+##### Deployed Version: https://phonebook47.herokuapp.com/
 
 ![homepage](https://user-images.githubusercontent.com/44681780/70203622-59937280-16d2-11ea-94fd-7eefb00cab66.jpg)
 
