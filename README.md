@@ -1,6 +1,6 @@
 # Phone Book
 
-#### MERN Full Stack application that stores user contacts.
+#### MERN Stack application that stores user contacts.
 
 ##### Deployed Version: https://phonebook47.herokuapp.com/
 
